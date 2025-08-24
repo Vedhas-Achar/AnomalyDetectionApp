@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TouchLogger</string>
+    <string name="accessibility_service_description">This service logs touch patterns</string>
+</resources>
